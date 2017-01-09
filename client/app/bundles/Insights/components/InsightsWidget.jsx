@@ -4,7 +4,7 @@
 import React, { PropTypes } from 'react';
 
 // Simple example of a React "dumb" component
-export default class HelloWorldWidget extends React.Component {
+export default class InsightsWidget extends React.Component {
   static propTypes = {
     // If you have lots of data or action properties, you should consider grouping them by
     // passing two properties: "data" and "actions".
